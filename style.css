@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+#Heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    line-height: 5rem;
+    color: antiquewhite;
+    background-color: brown;
+}
+
+.choice{
+    display: flex;
+   justify-content: center;
+    height: 200px;
+    width: 200px;
+    
+}
+
+img{
+    height: 150px;
+    width: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+}
